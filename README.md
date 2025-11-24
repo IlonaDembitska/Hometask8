@@ -1,7 +1,7 @@
 # Hometask 8 — HTTPS on AWS EC2 (Automation via AWS CLI)
 
 Author: Ilona Dembitska  
-Course: DevOps  
+Course: IXT
 Lab: Hometask #8  
 Topic: Automated Apache + HTTPS configuration on EC2 using user-data  
 
@@ -25,3 +25,4 @@ bash run-instance.sh
  2. Скопіювати Public IPv4 address
  3. Відкрити у браузері:
   https://YOUR_PUBLIC_IP
+
