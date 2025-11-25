@@ -1,5 +1,5 @@
 aws ec2 run-instances \
-    --image-id ami-01fd6fa49060e89a6 \
+    --image-id ami-01bc990364452ab3e  \
     --count 1 \
     --instance-type t3.micro \
     --key-name demIXT\
